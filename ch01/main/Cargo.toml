@@ -1,5 +1,5 @@
 [package]
-name = "p9-main"
+name = "main"
 version = "0.1.0"
 authors = ["mikan <yutakakato@icloud.com>"]
 
